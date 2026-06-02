@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
 </p>
 
-<h1 align="center">Hi, I'm Heb 👋</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Software Development Student | C#/.NET | Frontend & UI/UX Explorer</h3>
 
 ---
@@ -24,7 +24,7 @@ I love:
 ## 🚀 Skills & Technologies
 
 ### **Languages**
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/hebdev/Project-1-Event-To-Do-Assistant)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/idesignerSe/Project-1-Event-To-Do-Assistant)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
