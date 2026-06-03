@@ -1,7 +1,5 @@
 <!-- Banner / Header -->
-<div align="center">
   <img src="https://raw.githubusercontent.com/IdesignerSe/Portfolio/main/assets/images/github_banner_logo_loop_v2_under1mb.gif" width="80%" />
-</div>
 
 
 <h1 align="center">Hi, IdesignerSe here 👋</h1>
