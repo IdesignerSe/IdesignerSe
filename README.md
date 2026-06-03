@@ -1,10 +1,11 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://github.com/IdesignerSe/Portfolio/blob/main/assets/images/github_banner_logo_loop_v2_under1mb.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/IdesignerSe/Portfolio/main/assets/images/github_banner_logo_loop_v2_under1mb.gif" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">Software Development Student | C#/.NET | Frontend & UI/UX Explorer</h3>
+
+<h1 align="center">Hi, IdesignerSe here 👋</h1>
+<h3 align="center">C#/.NET Dev in Training · Crafting Fullstack Experiences with a UI/UX Twist</h3>
 
 ---
 
