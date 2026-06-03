@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://github.com/IdesignerSe/Portfolio/blob/main/assets/images/github_banner_logo_loop_v2_under1mb.gif" width="250"/>
+  <img src="https://github.com/IdesignerSe/Portfolio/blob/main/assets/images/github_banner_logo_loop_v2_under1mb.gif" width="1280"/>
 </p>
 
 <h1 align="center">Hi 👋</h1>
