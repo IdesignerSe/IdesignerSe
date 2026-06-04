@@ -64,6 +64,7 @@ I'm focus right now:
 </td></tr>
 </table>
 
+
 <table>
 <tr><td>
 
@@ -73,11 +74,10 @@ I'm focus right now:
 <td>
 
 <table>
-<tr><td>
 
 ### 🔧 AI Clound & LLMs  
 [![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
-[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)</td></tr>
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
 </table>
 
 </details>
