@@ -77,6 +77,14 @@ Skills are matching projects that I created and posted in Github and others plat
 
 </td></tr></table>
 
+<table><tr><td>
+
+### 📖 Libraries  
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/CV)
+
+</td></tr></table>
+
+
 </details>
 
 ---
@@ -113,7 +121,6 @@ Skills are matching projects that I created and posted in Github and others plat
 
 ### 🎨 Design Tools  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/IdesignerSe/CV)
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/CV)
 
 </td></tr></table>
 
