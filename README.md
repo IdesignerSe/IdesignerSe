@@ -47,10 +47,11 @@ I'm focus right now:
 <details>
   <summary><b>Tools & Technologies</b></summary>
 <br>
+
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td valign="top">
 
 <b>🔧 Tools & Technologies</b><br><br>
 
@@ -58,8 +59,8 @@ I'm focus right now:
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
 
 </td>
-
-<td width="50%" valign="top">
+<br>
+<td valign="top">
 
 <b>🤖 AI Tools</b><br><br>
 
