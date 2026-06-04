@@ -22,8 +22,7 @@ I'm focused right now on:
 
 # 📂 Skills Overview
 
-Below are collapsible sections — all at the same level, no nesting.
-
+Skills are matching projects that I created and posted in Github and others platforms as well. You are welcome to have a look! ✌️ 
 ---
 
 <details>
@@ -42,7 +41,7 @@ Below are collapsible sections — all at the same level, no nesting.
 
 <table><tr><td>
 
-### 🤖 Back-End & AI Tools  
+### 🤖 AI Tools  
 [![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
 
