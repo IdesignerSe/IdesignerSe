@@ -19,30 +19,136 @@ I'm focus right now:
 - Testing LLMs / Integrating Ai 
 
 ---
+<details>
+  <summary><b>Programming Skills</b></summary>
+<br>
+<table>
+<tr><td>
 
 ## 💼 Skills & Technologies
 
-### **👨‍💻 Programming and Markup Languages Projects**
+### **👨‍💻 Programming Front-End Projects**
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/idesignerSe/Project-1-Event-To-Do-Assistant)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/IdesignerSe/)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/IdesignerSe/)
 
-### **🧰 Frameworks and Libraries**
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### Programming 🤖 Back-End  Projects**
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+</td></tr>
+</table>
+
+</details>
+
+<details>
+  <summary><b>Frameworks and Libraries</b></summary>
+<br>
+<table>
+<tr><td>
+
+### **🧰 Microsoft**
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/idesignerSe/Project-1-Event-To-Do-Assistant)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/IdesignerSe/)
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### 🤖 Linux**
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### 🤖 Mac**
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+</td></tr>
+</table>
+
+</details>
+
+<details>
+  <summary><b>TDatabases and Cloud Hosting</b></summary>
+<br>
+<table>
+<tr><td>
 
 ### **Databases and Cloud Hosting**
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/IdesignerSe/)
 [![SQLite](https://img.shields.io/badge/SQLite-1572B6?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/IdesignerSe/)
 
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### 🤖 AI Clound & LLMs  
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+</td></tr>
+</table>
+
+<details>
+  <summary><b>Design & UI/UX</b></summary>
+<br>
+<table>
+<tr><td>
+
 ### **Design & UI/UX**
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/CV)
 
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### 🤖 AI Clound & LLMs  
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+</td></tr>
+</table>
+
+
+<details>
+  <summary><b>Software and Tools</b></summary>
+<br>
+
+<table>
+<tr><td>
+
 ### **Software and Tools**
 [![Git](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/IdesignerSe/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdesignerSe/)
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
+### 🤖 AI Clound & LLMs  
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+</td></tr>
+</table>
+
+</details>
 
 <details>
   <summary><b>Tools & Technologies</b></summary>
