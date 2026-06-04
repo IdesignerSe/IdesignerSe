@@ -63,8 +63,17 @@ I'm focus right now:
 [![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
 </td></tr>
 </table>
+
+<table>
+<tr><td>
+box 1 in line
+</td>
+<td>
+box 2 next inlineS
+</td></tr>
+</table>
+
 </details>
----
 
 ## 📦 Featured Projects
 
@@ -88,7 +97,6 @@ A beginner‑friendly but powerful console app with:
 
 🔗 **Repo:** https://github.com/IdesignerSe/Checkpoint-2-Product-List
 
----
 
 ### 🔹 **3D CV Website (Three.js + UI/UX)**
 A creative CV concept using:
