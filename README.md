@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 Bio - Beyond Code
+## 🧑‍💻 Beyond Code
 
 I enjoy working with **C#/.NET**, **HTML/CSS**, **NodeJS**, **ReactJS**, and learning **3D interactions** using modern web tools.
 
@@ -22,7 +22,7 @@ I'm focused right now on:
 
 # 📂 Skills Overview
 
-Skills are matching projects that I created and posted in Github and others platforms as well. You are welcome to have a look! ✌️ 
+These skills come from hands‑on projects I’ve built and shared on GitHub and beyond. You’re welcome to check them out! ✌️
 ---
 
 <details>
@@ -42,8 +42,8 @@ Skills are matching projects that I created and posted in Github and others plat
 <table><tr><td>
 
 ### 🤖 AI Tools  
-[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
-[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/)
+[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
 
@@ -80,7 +80,7 @@ Skills are matching projects that I created and posted in Github and others plat
 <table><tr><td>
 
 ### 📖 Libraries  
-[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/CV)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
 
@@ -103,10 +103,9 @@ Skills are matching projects that I created and posted in Github and others plat
 
 <table><tr><td>
 
-### ☁️ Cloud & LLMs  
-[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
-[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
-
+### ☁️ Cloud hosting  
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IdesignerSe/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/IdesignerSe/)
 </td></tr></table>
 
 </details>
