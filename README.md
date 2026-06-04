@@ -48,21 +48,25 @@ I'm focus right now:
   <summary><b>Tools & Technologies</b></summary>
 <br>
 <table>
-<tr><td>
+<tr>
 
-### 🔧 Project Managment  
-[![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)
+<td width="50%" valign="top">
+
+<b>🔧 Tools & Technologies</b><br><br>
+
+[![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)  
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
-</td></tr>
-</table>
-<table>
-<tr><td>
 
-### 🔧 AI Clound & LLMs  
-[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)
+</td>
+
+<td width="50%" valign="top">
+
+<b>🤖 AI Tools</b><br><br>
+
+[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/CV)  
 [![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
-</td></tr>
-</table>
+
+</td>
 </details>
 ---
 
