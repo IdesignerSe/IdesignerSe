@@ -46,7 +46,10 @@ I'm focus right now:
 
 <details>
   <summary><b>Project Managment and Tools</b></summary>
+  
   <br>
+
+  ### 🔧 Tools & Technologies  
 [![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
 </details>
