@@ -44,10 +44,11 @@ I'm focus right now:
 [![Git](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/IdesignerSe/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdesignerSe/)
 
-### **Project Managment and Tools**
+<details>
+  <summary><b>### **Project Managment and Tools**</b></summary>
 [![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
-
+</details>
 ---
 
 ## 📦 Featured Projects
