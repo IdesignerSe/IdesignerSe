@@ -77,6 +77,8 @@ I'm focus right now:
 [![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)</td></tr>
 </table>
 
+</details>
+
 <table>
 
 ### 🔧 Project Managment  
@@ -91,8 +93,6 @@ I'm focus right now:
 
 </table>
 
-
-</details>
 
 ## 📦 Featured Projects
 
