@@ -57,7 +57,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
-### 🧰 Microsoft  
+### Microsoft  
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/idesignerSe/Project-1-Event-To-Do-Assistant)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/IdesignerSe/)
 
@@ -65,14 +65,14 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
-### 🐧 Linux  
+### Linux  
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
 
 <table><tr><td>
 
-### 🍎 macOS  
+### MacOS  
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
