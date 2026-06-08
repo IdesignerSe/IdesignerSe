@@ -74,11 +74,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <details>
   <summary><b>Frameworks &  Libraries</b></summary>
   
-  [![ReactJS](shields.io badges typescript)][(https://react.dev/)](https://github.com/IdesignerSe/)
-
-  [![TypeScript](shields.io badges typescript)]https://github.com/IdesignerSe/
-
-  [![ThreeJS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdesignerSe/) 
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdesignerSe/) 
 
 <br>
 
