@@ -23,6 +23,7 @@ I'm focused right now on:
 # 📂 Skills Overview
 
 These skills come from hands‑on projects I’ve built and shared on GitHub and beyond. You’re welcome to check them out! ✌️
+
 ---
 
 <details>
@@ -72,7 +73,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 ---
 
 <details>
-  <summary><b>Frameworks &  Libraries</b></summary>
+  <summary><b>Frameworks & Libraries</b></summary>
 
 <br>
 
@@ -107,8 +108,8 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
   
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdesignerSe/) 
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/)
-</td></tr></table>
 
+</td></tr></table>
 
 </details>
 
@@ -133,6 +134,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IdesignerSe/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/IdesignerSe/)
+
 </td></tr></table>
 
 </details>
@@ -183,16 +185,11 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 [![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/IdesignerSe/CV)
 
-<table><tr><td>
+</td></tr></table>
 
 </details>
 
 ---
-<details>
-  <summary><b>Project Management</b></summary>
-<br>
-
-<table><tr><td>
 
 # 📦 Featured Projects
 
@@ -236,5 +233,3 @@ A creative CV concept using:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<table><tr><td>
