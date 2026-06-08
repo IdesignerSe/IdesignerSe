@@ -188,6 +188,11 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 </details>
 
 ---
+<details>
+  <summary><b>Project Management</b></summary>
+<br>
+
+<table><tr><td>
 
 # 📦 Featured Projects
 
@@ -231,3 +236,5 @@ A creative CV concept using:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<table><tr><td>
