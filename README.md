@@ -41,6 +41,16 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
+### 👨‍💻 Back-End Programming  
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/IdesignerSe/)
+[![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/IdesignerSe/)
+[![SQLite](https://img.shields.io/badge/SQLite-1572B6?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/IdesignerSe/)
+
+</td></tr></table>
+
+<table><tr><td>
+
 ### 🤖 AI Tools  
 [![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/)
 [![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/IdesignerSe/)
@@ -52,7 +62,14 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 ---
 
 <details>
-  <summary><b>Frameworks and Libraries</b></summary>
+  <summary><b>Frameworks &  Libraries</b></summary>
+  [![React ⚛️](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)][(https://react.dev/)](https://github.com/IdesignerSe/)
+  [![TypeScript 🟦](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]https://github.com/IdesignerSe/
+  [![TypeScript 🟦](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdesignerSe/)
+
+
+
+  
 <br>
 
 <table><tr><td>
