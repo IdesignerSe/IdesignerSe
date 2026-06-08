@@ -73,8 +73,6 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <details>
   <summary><b>Frameworks &  Libraries</b></summary>
-  
-  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdesignerSe/) 
 
 <br>
 
@@ -106,7 +104,8 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <table><tr><td>
 
 ### 📖 Libraries 
-
+  
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/IdesignerSe/) 
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://github.com/IdesignerSe/)
 </td></tr></table>
