@@ -61,6 +61,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <table><tr><td>
 
 ### 🤖 AI Tools  
+
 [![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/)
 [![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/IdesignerSe/)
 
@@ -81,6 +82,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <table><tr><td>
 
 ### Microsoft  
+
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/idesignerSe/Project-1-Event-To-Do-Assistant)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/IdesignerSe/)
 
@@ -89,6 +91,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <table><tr><td>
 
 ### Linux  
+
 [![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
@@ -96,13 +99,15 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <table><tr><td>
 
 ### MacOS  
+
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
 
 <table><tr><td>
 
-### 📖 Libraries  
+### 📖 Libraries 
+
 [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/IdesignerSe/)
 
 </td></tr></table>
@@ -118,7 +123,8 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
-### 🗄️ Databases  
+### 🗄️ Databases 
+
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/IdesignerSe/)
 [![SQLite](https://img.shields.io/badge/SQLite-1572B6?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/IdesignerSe/)
 
@@ -126,7 +132,8 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
-### ☁️ Cloud hosting  
+### ☁️ Cloud hosting 
+
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/IdesignerSe/)
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/IdesignerSe/)
 </td></tr></table>
@@ -141,7 +148,8 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
-### 🎨 Design Tools  
+### 🎨 Design Tools
+
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/IdesignerSe/CV)
 
 </td></tr></table>
@@ -157,6 +165,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 <table><tr><td>
 
 ### 🛠️ Software  
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/IdesignerSe/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdesignerSe/)
 
@@ -172,7 +181,8 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 <table><tr><td>
 
-### 🔧 PM Tools  
+### 🔧 PM Tools 
+
 [![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/KvdZ117R/%F0%9F%9F%A1team-skater-park-application)
 
