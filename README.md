@@ -50,14 +50,6 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 
 </td></tr></table>
 
-<table><tr><td>
-
-### 🤖 AI Tools  
-[![CoPilot](https://img.shields.io/badge/CoPilot-2496ED?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/IdesignerSe/)
-[![Ollama](https://img.shields.io/badge/Ollama-0052CC?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/IdesignerSe/)
-
-</td></tr></table>
-
 </details>
 
 ---
