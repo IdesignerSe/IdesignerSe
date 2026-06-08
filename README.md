@@ -183,11 +183,7 @@ These skills come from hands‑on projects I’ve built and shared on GitHub and
 [![Agile PM](https://img.shields.io/badge/Agile_PM-2496ED?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://github.com/IdesignerSe/CV)
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://github.com/IdesignerSe/CV)
 
-###  Agile PM
-
-[![Scrum](https://www.shieldcn.dev/badge/GitHub-%40Scrum-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/IdesignerSe/CV)
-[![Kanban](https://www.shieldcn.dev/badge/GitHub-%40kanban-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/IdesignerSe/CV)
-
+<table><tr><td>
 
 </details>
 
